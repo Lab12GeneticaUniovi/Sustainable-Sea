@@ -1,2 +1,3 @@
 # Sustainable-Sea
-Repository containing the manual and related information to print and play the educational game "Sustainable Sea"
+
+Sustainable Sea is a strategy game developed for educational purposes in which players assume the role of fishermen while learning concepts related to the sustainable management of fishing resources. Players earn points as they apply sustainable policies. The game was tested on high-school students and students pursuing bachelor’s and master’s degrees in Asturias (Spain). Pre- and post-tests were performed to evaluate the knowledge acquired from playing the game. The game was also evaluated as an educational tool using a satisfaction survey. A general increase in the understanding of fisheries sustainable management concepts was observed (significant in the bachelor’s degree group), and the students exhibited a significant preference for this alternative teaching tool.
